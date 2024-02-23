@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking for a mentor in web development 
-- 📫 How to reach me (Mail me)
+- 📫 How to reach me mailto:vasangokul6221@gmail.com
