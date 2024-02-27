@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gokul6221
+- 👋 Hi, I’m @Gokulvasan-Dev
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently Working as an Intern Web Developer in @InfognanaSolutions -Coimbatore
 - 💞️ I’m looking for a mentor in web development 
 - 📫 How to reach me mailto:vasangokul6221@gmail.com
